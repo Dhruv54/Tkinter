@@ -1,7 +1,4 @@
-from cgitb import text
-from textwrap import fill
 from tkinter import *
-from turtle import width
 
 root=Tk()
 
